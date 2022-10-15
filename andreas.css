@@ -1,0 +1,20 @@
+/* https://flatdark.fruitionplus.com/cssstylesarticle */
+
+@import url('reset.css');
+
+:root {
+	--default-bg: white;
+	--default-color: black;
+	--default-border: DimGray;
+	--default-highlight: DimGray;
+	--default-body: '';
+	--default-heading: '';
+}
+
+.notion-page-content {
+	font-size: 20px !important;
+}
+
+/* .notion-record-icon {
+	filter: invert(1);
+} */
